@@ -2567,6 +2567,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [World Media Map](https://start.me/p/lLaoXv/07-world)
 - [International White and Yellow Pages](https://www.wayp.com)
 - [Geotips Map](https://geotips.net) - World map with tips for Geo-OSINT
+- [twtData X trends by country](https://twtdata.com/twitter-trends/) - X (Twitter) trending topics for 60 countries and territories, with dated archive pages
   
 ### Included in country sections above
 - [OSINT Map](https://cybdetective.com/osintmap/) - Worldwide map of OSINT tools
